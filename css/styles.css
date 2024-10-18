@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 20px;
+  margin-top: 80px;
+}
+
+li {
+  margin: 10px 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+btnEliminar {
+  background-color: rgb(168, 3, 3);
+}
